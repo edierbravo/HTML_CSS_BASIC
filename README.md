@@ -64,8 +64,13 @@ Tienen dos parametros:
     }
     
 - Propiedades: dan estilo a la pagina web
+
 {
+
 margin: 0; margen
+
 padding: 0; margen interno
+
 box-sizing:border-box; ni ancho ni alto se modifica al agregar un padding u otra propiedad
+
 }
